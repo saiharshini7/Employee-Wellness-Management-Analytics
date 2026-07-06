@@ -1,0 +1,7 @@
+streamlit
+psycopg2-binary
+bcrypt
+PyJWT
+python-dotenv
+pandas
+email-validator
