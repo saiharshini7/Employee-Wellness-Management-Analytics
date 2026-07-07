@@ -97,24 +97,6 @@ streamlit run app.py
 
 ---
 
-## Folder Structure
-
-```
-Employee-Wellness-Management-Analytics
-│
-├── Milestone1
-│   ├── Authentication.ipynb
-│   ├── README.md
-│   └── screenshots
-│
-├── app.py
-├── auth.py
-├── config.py
-├── database.py
-├── email_utils.py
-├── requirements.txt
-└── .env
-```
 
 ---
 
